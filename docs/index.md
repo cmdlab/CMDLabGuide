@@ -1,5 +1,5 @@
 
-**Update**: 08/23/2019
+**Update**: 06/10/2020
 
 **Maintained By**: Arunima K. Singh
 
@@ -96,15 +96,16 @@ Depending on your project, you may need to install some of the following softwar
 This guide walks you through the steps for setting up pymatgen, fireworks and atomate on ASU’s supercomputer, Agave. Installation steps for a local machine or another super computer will differ, but follow similar steps.
 Setup an environment:
 
-* Download anaconda installer from https://conda.io/docs/user-guide/install/linux.html and install anaconda using the command below. 
+* Download anaconda installer from https://www.anaconda.com/products/individual#linux and install anaconda using the command below. 
 
 ```
-bash Anaconda-latest-Linux-x86_64.sh
+bash Anaconda3-2020.02-Linux-x86_64.sh
+source ~/.bashrc
 ```
 
 * Create a python environment
 
-``` conda create -n cms python=3.6 ```
+``` conda create -n cms  ```
 
 * Activate the environment and install the base libraries (cms=computational materials science)
 
@@ -123,15 +124,15 @@ To install atomate (and hence pymatgen, pymatgen-db, fireworks and custodian) on
 
 ``` cd code ```
 
-``` git clone https://github.com/materialsproject/pymatgen.git --branch v2018.11.30```
+``` git clone https://github.com/materialsproject/pymatgen.git ```
 
-``` git clone https://github.com/materialsproject/pymatgen-db.git --branch v2018.2.21```
+``` git clone https://github.com/materialsproject/pymatgen-db.git ```
 
-``` git clone https://github.com/materialsproject/fireworks.git --branch v1.8.1```
+``` git clone https://github.com/materialsproject/fireworks.git ```
 
-``` git clone https://github.com/materialsproject/custodian.git --branch v2019.2.10```
+``` git clone https://github.com/materialsproject/custodian.git ```
 
-``` git clone https://github.com/hackingmaterials/atomate.git --branch v0.8.4```
+``` git clone https://github.com/hackingmaterials/atomate.git ```
 
 ``` cd pymatgen ```
 
