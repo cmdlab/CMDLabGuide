@@ -333,7 +333,7 @@ We use [VASP](https://www.vasp.at/) for density-functional theory simulations. T
 ### Education and Training on EDI <a name="section6.1"></a>
 We value Equity, Diversity, and Inclusion (EDI) and believe that it is essential for research excellence. We are committed to educating and training our team members to promote understanding of systemic barriers faced by underrepresented groups, and we have implemented action plans to promote EDI. 
 
-Our research group at ASU has made it a priority to curate a variety of resources related to equity, diversity, and inclusion (EDI) training. These include training modules on topics such as [inclusive workplaces](https://inclusion.asu.edu/training-and-development/inclusive-workplace), [reconciliation](https://www.asu.edu/about/truth-and-reconciliation), [bias-awareness](https://inclusion.asu.edu/training-and-development/bias-awareness), [accessibility](https://www.asu.edu/accessibility), and more, all provided by ASU. 
+Our research group at ASU has made it a priority to curate a variety of resources related to equity, diversity, and inclusion (EDI) training. These include training modules on topics such as [OEI Training](https://cfo.asu.edu/OEI-training), [inclusive workplaces](https://inclusion.asu.edu/), [accessibility](https://www.asu.edu/accessibility), and more, all provided by ASU. 
 
 Our team's website provides a code of research conduct, procedures/policies for best research practices, conference participation, publications policies, and networking opportunities. Some helpful resources specific to post-docs and graduate students that are enlisted on the PIs website are:
 
