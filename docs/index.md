@@ -18,14 +18,6 @@
     4. [Using MongoDB](#section4.4)
 5. [Our Software Infrastructure](#section5)
 6. [Equity, Diversity, and Inclusion (EDI) in workplace](#section6)
-    1. [Education and Training on EDI](#section6.1)
-        1. [Monthly EDI Research Group Meetings](#section6.1.1)
-        2. [Web-Links on Group Website to Promote Training and Professional Development Opportunities](#section6.1.2)
-    2. [Mentoring and Mentorship Training](#section6.2)
-        1. [Mentoring by PI](#section6.2.1)
-        2. [Mentorship Training](#section6.2.2)
-    3. [Code of Research and Team Conduct](#section6.3)
-    4. [Evaluation of PIER Plan and Conflict Resolution](#section6.4)
 7. [Resources for Learning New Topics](#section7)
 
 
@@ -339,37 +331,22 @@ We use [VASP](https://www.vasp.at/) for density-functional theory simulations. T
 ## 6. Equity, Diversity, and Inclusion (EDI) in workplace <a name="section6"></a>
 
 ### Education and Training on EDI <a name="section6.1"></a>
-We value Equity, Diversity, and Inclusion (EDI) and believe that it is essential for research excellence. We are committed to educating and training our team members to promote understanding of systemic barriers faced by underrepresented groups, and we have implemented action plans to promote EDI. Join us in creating a more inclusive and diverse environment that fosters research excellence.
+We value Equity, Diversity, and Inclusion (EDI) and believe that it is essential for research excellence. We are committed to educating and training our team members to promote understanding of systemic barriers faced by underrepresented groups, and we have implemented action plans to promote EDI. 
 
-##### Monthly EDI Research Group Meetings <a name="section6.1.1"></a>
-Regular meetings with team members to discuss concerns related to the workplace environment and to identify new resources for education and training activities are essential for creating a positive and inclusive workplace culture. By providing a safe space for open dialogue, team members can collaborate to address any issues that may arise and contribute to a more supportive work environment. These meetings also enable teams to stay up-to-date with the latest industry trends and advancements, fostering professional growth and development.
+Our research group at ASU has made it a priority to curate a variety of resources related to equity, diversity, and inclusion (EDI) training. These include training modules on topics such as [inclusive workplaces](https://inclusion.asu.edu/training-and-development/inclusive-workplace), [reconciliation](https://www.asu.edu/about/truth-and-reconciliation), [bias-awareness](https://inclusion.asu.edu/training-and-development/bias-awareness), [accessibility](https://www.asu.edu/accessibility), and more, all provided by ASU. 
 
-##### Web-Links on Group Website to Promote Training and Professional Development Opportunities <a name="section6.1.2"></a>
-The PI's research group at ASU has made it a priority to curate a variety of resources related to equity, diversity, and inclusion (EDI) training. These include training modules on topics such as [inclusive workplaces](https://inclusion.asu.edu/training-and-development/inclusive-workplace), [reconciliation](https://www.asu.edu/about/truth-and-reconciliation), [bias-awareness](https://inclusion.asu.edu/training-and-development/bias-awareness), [accessibility](https://www.asu.edu/accessibility), and more, all provided by ASU. Additionally, the group's website features links to social networks that offer support services to underrepresented groups, as well as professional development opportunities collected from ASU's resources and professional societies. The link to training resources is updated annually on the website with new weblinks identified in the group's EDI meetings. 
-
-Other resources of interest include the [ASU Physics Department IDEA website](https://physics.asu.edu/idea), which curates a list of resources about financial issues, paid positions, conferences, scholarships, communities, and hotlines. Resources from the [American Physical Society (APS)](https://www.aps.org/programs/index.cfm) are also linked, including information about their programs and [minorities resources](https://www.aps.org/programs/minorities/). Finally, ASU's EDI University Wide Initiatives are also linked, providing information about their [training programs](https://inclusion.asu.edu/training-and-development), [workplace accommodations](https://cfo.asu.edu/workplace-accommodations), and other resources.
+Our team's website provides a code of research conduct, procedures/policies for best research practices, conference participation, publications policies, and networking opportunities. Some helpful resources specific to post-docs and graduate students that are enlisted on the PIs website are:
 
 
-### Mentoring and Mentorship Training <a name="section6.2"></a>
+- https://graduate.asu.edu/postdocs/resources-postdocs: Resources for postdoctoral fellows at Arizona State University including benefits, policies, professional development opportunities, funding, and events.
 
+- https://graduate.asu.edu/current-students/funding-opportunities/graduate-appointments-and-assistantships/resources-for-students/training-and-orientation: Training and orientation resources for graduate students with appointments or assistantships at Arizona State University, providing guidance on policies, procedures, expectations, and professional development.
 
-##### Mentoring by PI <a name="section6.2.1"></a>
-The PI will provide weekly one-on-one mentoring to team members and demonstrate a positive example in fostering a respectful and supportive work environment. They will also recognize team members' efforts towards equity and diversity by nominating them for diversity awards and participate in public lectures by underrepresented groups.
+- https://graduate.asu.edu/postdocs/news-and-events: News and event information for postdoctoral fellows at Arizona State University, including upcoming events, workshops, seminars, news on research, funding, and professional development opportunities.
 
-##### Mentorship Training <a name="section6.2.2"></a>
-Post-doc mentors will receive unconscious bias training and other EDI training as necessary. They will also receive materials for giving feedback to mentees and fostering effective mentor-mentee relationships, such as establishing goals and boundaries, meeting frequency, and confidentiality.
+- https://physics.asu.edu/resources/human-resources: Resources for human resources within the Physics Department at Arizona State University, including employment opportunities, policies, procedures, benefits, and professional development opportunities.
 
-### Code of Research and Team Conduct <a name="section6.3"></a>
-PI’s team website provides a code of research conduct, procedures/policies for best research practices, conference participation, publications policies, and networking opportunities. In addition, helpful resources specific to post-docs and graduate students that are enlisted on the PIs website are:
-- https://graduate.asu.edu/postdocs/resources-postdocs
-- https://graduate.asu.edu/current-students/funding-opportunities/graduate-appointments-and-assistantships/resources-for-students/training-and-orientation
-- https://graduate.asu.edu/postdocs/news-and-events
-- https://physics.asu.edu/resources/human-resources
-- https://physics.asu.edu/student-life/phd-experience/academic-advising
-
-
-### Evaluation of PIER Plan and Conflict Resolution <a name="section6.4"></a>
-The PI’s group website will be updated with college-level resources that address EDI issues and conflicts. These resources are focused on addressing any conflicts or issues that arise swiftly and in a sensitive manner, respecting the privacy and confidentiality of those involved. The PIER plan will be evaluated by participating researchers using publicly available online surveys on a quarterly basis and exit surveys. For example, through climate survey forms available through ASU ([https://cgest.asu.edu/knowledge/diversitysurvey](https://cgest.asu.edu/knowledge/diversitysurvey)) and other government agencies. The ASU Department of Physics EDI officer will be consulted to improve PIER plans and document the survey results.
+- https://physics.asu.edu/student-life/phd-experience/academic-advising: Information on academic advising for Physics Ph.D. students at Arizona State University, including the advising process, expectations, resources, and links to professional development and funding opportunities.
 
 ## 7. Resources for learning new topics <a name="section7"></a>
 
