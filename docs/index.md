@@ -1,5 +1,5 @@
 
-**Update**: 06/10/2020
+**Update**: 04/20/2023
 
 **Maintained By**: Arunima K. Singh
 
@@ -17,12 +17,9 @@
     3. [Sharing/Duplicating Anaconda Environments](#section4.3)
     4. [Using MongoDB](#section4.4)
 5. [Our Software Infrastructure](#section5)
-6. [Resources for Learning New Topics](#section6)
-    1. [Slack](#section6.1)
-    2. [Books](#section6.2)
-    3. [Materials Science](#section6.3)
-    4. [Computer Programming](#section6.4)
-    5. [Professional Skills](#section6.5)
+6. [Equity, Diversity, and Inclusion (EDI) in workplace](#section6)
+7. [Resources for Learning New Topics](#section7)
+
 
 ## 1. About Our Group <a name="section1"></a>
 Computational Materials Design (CMD) lab's research focuses on atomistic simulations of complex surfaces and interfaces. We develop and use quantum mechanical simulations as well as molecular dynamics simulations to push the boundaries of knowledge in nanomaterials, 2D materials, and surface dominant-phenomena. Contributing to the Materials Genome Initiative, our lab develops scientific-software infrastructure to enable high-throughput computational studies, facilitating an accelerated discovery and design of novel materials. 
@@ -331,22 +328,42 @@ Any software-infrastructure developed by our group is shared via [github](https:
 
 We use [VASP](https://www.vasp.at/) for density-functional theory simulations. This licensed software is accessible to all group members. The source code, the psuedopotential library and the makefiles and executables for our supercomputing platform can be found on the CMDLab google drive.  
 
-## 6. Resources for learning new topics <a name="section6"></a>
+## 6. Equity, Diversity, and Inclusion (EDI) in workplace <a name="section6"></a>
 
-### Slack <a name="section6.1"></a>
+### Education and Training on EDI <a name="section6.1"></a>
+We value Equity, Diversity, and Inclusion (EDI) and believe that it is essential for research excellence. We are committed to educating and training our team members to promote understanding of systemic barriers faced by underrepresented groups, and we have implemented action plans to promote EDI. 
+
+Our research group at ASU has made it a priority to curate a variety of resources related to equity, diversity, and inclusion (EDI) training. These include training modules on topics such as [inclusive workplaces](https://inclusion.asu.edu/training-and-development/inclusive-workplace), [reconciliation](https://www.asu.edu/about/truth-and-reconciliation), [bias-awareness](https://inclusion.asu.edu/training-and-development/bias-awareness), [accessibility](https://www.asu.edu/accessibility), and more, all provided by ASU. 
+
+Our team's website provides a code of research conduct, procedures/policies for best research practices, conference participation, publications policies, and networking opportunities. Some helpful resources specific to post-docs and graduate students that are enlisted on the PIs website are:
+
+
+- https://graduate.asu.edu/postdocs/resources-postdocs: Resources for postdoctoral fellows at Arizona State University including benefits, policies, professional development opportunities, funding, and events.
+
+- https://graduate.asu.edu/current-students/funding-opportunities/graduate-appointments-and-assistantships/resources-for-students/training-and-orientation: Training and orientation resources for graduate students with appointments or assistantships at Arizona State University, providing guidance on policies, procedures, expectations, and professional development.
+
+- https://graduate.asu.edu/postdocs/news-and-events: News and event information for postdoctoral fellows at Arizona State University, including upcoming events, workshops, seminars, news on research, funding, and professional development opportunities.
+
+- https://physics.asu.edu/resources/human-resources: Resources for human resources within the Physics Department at Arizona State University, including employment opportunities, policies, procedures, benefits, and professional development opportunities.
+
+- https://physics.asu.edu/student-life/phd-experience/academic-advising: Information on academic advising for Physics Ph.D. students at Arizona State University, including the advising process, expectations, resources, and links to professional development and funding opportunities.
+
+## 7. Resources for learning new topics <a name="section7"></a>
+
+### Slack <a name="section7.1"></a>
 If you have a specific question, sometimes the easiest solution is to post it to the Slack group and crowdsource the answer from the CMD lab group members. 
 
-### Books <a name="section6.2"></a>
+### Books <a name="section7.2"></a>
 As an ASU student or affiliate, you can get access to almost any book you’d like through the [ASU library](http://lib.asu.edu/). Our group has several technical books shared on the CMD lab google drive. If you need a book which is not available through the library we can purchase it through research funds. 
 
-### Materials Science <a name="section6.3"></a>
+### Materials Science <a name="section7.3"></a>
 
 It can be difficult to find resources that explain concepts in materials science clearly. Often, struggling through multiple attempts to understand a topic using several different resources in a patchwork and non-linear fashion is the only way forward. That said, the resources listed below are particularly helpful.
 
 For beginners to density functional theory, I would recommend the book “Density Functional Theory: A Practical Introduction”, which truly achieves what it states by providing physical insights and relevant information rather than just listing equations. A copy is available within the group through the CMD lab google drive. If you are interested in the physics of the DFT, the book "Atomic and Electronic Structure of Solids" dives into the relevant physics at a level suited for graduate students. Again, this book is available on the CMD lab google drive. 
 
 
-### Computer Programming <a name="section6.4"></a>
+### Computer Programming <a name="section7.4"></a>
 Note that there are usually many excellent resources to choose from when learning computer science topics. You usually have the flexibility of choosing to learn from a book, a video series, or even interactive tutorials like www.learnpython.org. Use the list below as potential starting points, but there exist many other high-quality alternatives you can find on your own and may be even better-suited to your needs.
 
 * Terminal and Command Line
@@ -370,8 +387,5 @@ https://github.com/karlseguin/the-little-mongodb-book
 To bring everyone up to speed with the software our group use we have created tutorials and introductory documentation for our software. You can find this documentation on the CMDLab Google Drive under the Code_Softwares folder.
 
 
-### Professional Skills <a name="section6.5"></a>
+### Professional Skills <a name="section7.5"></a>
 To learn professional skills like writing papers and presenting talks and posters you can try this e-book http://go.nature.com/2opiiQh. You can also refer to the book "Trees, Maps, and Theorems" which is available on the CMD lab google drive. 
- 
-
-
