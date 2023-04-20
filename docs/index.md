@@ -338,15 +338,15 @@ Our research group at ASU has made it a priority to curate a variety of resource
 Our team's website provides a code of research conduct, procedures/policies for best research practices, conference participation, publications policies, and networking opportunities. Some helpful resources specific to post-docs and graduate students that are enlisted on the PIs website are:
 
 
-- https://graduate.asu.edu/postdocs/resources-postdocs: Resources for postdoctoral fellows at Arizona State University including benefits, policies, professional development opportunities, funding, and events.
+- [https://graduate.asu.edu/postdocs/resources-postdocs](https://graduate.asu.edu/postdocs/resources-postdocs): Resources for postdoctoral fellows at Arizona State University including benefits, policies, professional development opportunities, funding, and events.
 
-- https://graduate.asu.edu/current-students/funding-opportunities/graduate-appointments-and-assistantships/resources-for-students/training-and-orientation: Training and orientation resources for graduate students with appointments or assistantships at Arizona State University, providing guidance on policies, procedures, expectations, and professional development.
+- [https://graduate.asu.edu/current-students/funding-opportunities/graduate-appointments-and-assistantships/resources-for-students/training-and-orientation](https://graduate.asu.edu/current-students/funding-opportunities/graduate-appointments-and-assistantships/resources-for-students/training-and-orientation): Training and orientation resources for graduate students with appointments or assistantships at Arizona State University, providing guidance on policies, procedures, expectations, and professional development.
 
-- https://graduate.asu.edu/postdocs/news-and-events: News and event information for postdoctoral fellows at Arizona State University, including upcoming events, workshops, seminars, news on research, funding, and professional development opportunities.
+- [https://graduate.asu.edu/postdocs/news-and-events](https://graduate.asu.edu/postdocs/news-and-events): News and event information for postdoctoral fellows at Arizona State University, including upcoming events, workshops, seminars, news on research, funding, and professional development opportunities.
 
-- https://physics.asu.edu/resources/human-resources: Resources for human resources within the Physics Department at Arizona State University, including employment opportunities, policies, procedures, benefits, and professional development opportunities.
+- [https://physics.asu.edu/resources/human-resources](https://physics.asu.edu/resources/human-resources): Resources for human resources within the Physics Department at Arizona State University, including employment opportunities, policies, procedures, benefits, and professional development opportunities.
 
-- https://physics.asu.edu/student-life/phd-experience/academic-advising: Information on academic advising for Physics Ph.D. students at Arizona State University, including the advising process, expectations, resources, and links to professional development and funding opportunities.
+- [https://physics.asu.edu/student-life/phd-experience/academic-advising](https://physics.asu.edu/student-life/phd-experience/academic-advising): Information on academic advising for Physics Ph.D. students at Arizona State University, including the advising process, expectations, resources, and links to professional development and funding opportunities.
 
 ## 7. Resources for learning new topics <a name="section7"></a>
 
