@@ -17,8 +17,7 @@
     3. [Sharing/Duplicating Anaconda Environments](#section4.3)
     4. [Using MongoDB](#section4.4)
 5. [Our Software Infrastructure](#section5)
-6. [Equity, Diversity, and Inclusion (EDI) in workplace](#section6)
-7. [Resources for Learning New Topics](#section7)
+6. [Resources for Learning New Topics](#section6)
 
 
 ## 1. About Our Group <a name="section1"></a>
